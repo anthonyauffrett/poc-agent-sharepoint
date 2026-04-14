@@ -1,0 +1,7 @@
+semantic-kernel==1.41.2
+azure-ai-agents==1.1.0
+azure-search-documents
+azure-identity
+python-dotenv
+openai
+httpx
