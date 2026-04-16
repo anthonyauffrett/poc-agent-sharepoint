@@ -78,4 +78,6 @@ python -m src.main
 
 ## Démonstration
 
-[lien screencast à insérer]
+[\[Démonstration POC\]](https://www.youtube.com/watch?v=aZ6r0WbVHQs)
+
+Démonstration complète du pipeline RAG multi-agents en 3 minutes.
